@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/CellTemplateExample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/CellTemplateExample/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/CellTemplateExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CellTemplateExample/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/CellTemplateExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/CellTemplateExample/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to customize cell appearance in WPF Spreadsheet using a cell template
